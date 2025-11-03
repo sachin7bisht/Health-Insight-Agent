@@ -1,0 +1,7 @@
+streamlit
+st-supabase-connection
+langchain-openai
+pdfplumber
+filetype
+gotrue
+pytesseract

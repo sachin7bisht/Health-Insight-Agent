@@ -1,0 +1,64 @@
+# General
+.DS_Store
+.venv/
+.hia/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Testing / coverage
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Databases
+*.sqlite3
+*.db
+
+# Secret / env files (do NOT commit API keys or secrets)
+.env
+.env.*
+.secrets/
+credentials.json
+service-account*.json
+google-service-account*.json
+google-services.json
+*.key
+*.pem
+*.crt
+.netrc
+
+
+
+# Other
+__MACOSX/
+thumbs.db
+
+# Local caches
+*/.cache/
+
+# Node modules (if present)
+node_modules/
+
+# Logs
+*.log
+
